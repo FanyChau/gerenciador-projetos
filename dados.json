@@ -1,0 +1,26 @@
+{
+  "nome": "Epifanio",
+  "id": 1790773026139.6672,
+  "email": "Epifaniojaimechau@gmail.com",
+  "projetos": [
+    {
+      "nome": "ProjetoWeb",
+      "status": "iniciado",
+      "id": 1790773026140.4429,
+      "itens": [
+        {
+          "titulo": "Tomar Banho",
+          "prioridade": "Alta",
+          "id": 1790773026140.9766,
+          "concluida": false
+        },
+        {
+          "titulo": "Jantar",
+          "prioridade": "Media",
+          "id": 1790773026140.1047,
+          "concluida": false
+        }
+      ]
+    }
+  ]
+}
